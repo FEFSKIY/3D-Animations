@@ -1,0 +1,15 @@
+@import "_nullstyle.scss";
+body {
+   background-color: #8c8c8c;
+}
+.wrapper {
+   margin: 0 auto;
+}
+.animations {
+   display: flex;
+   flex-wrap: wrap;
+}
+.animation-item {
+   width: 50%;
+   height: 300px;
+}
